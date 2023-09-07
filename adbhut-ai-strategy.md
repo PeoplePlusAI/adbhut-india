@@ -262,6 +262,8 @@ Open Questions :
 
 Owner: Someone EkStep team
 
+[https://github.com/PeoplePlusAI/adbhut-india/issues/24](https://github.com/PeoplePlusAI/adbhut-india/issues/24)&#x20;
+
 \
 \
 
