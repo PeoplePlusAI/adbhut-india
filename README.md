@@ -174,8 +174,10 @@ Level 2: that actively uses AI
 Level 3: General India - One knows how to use AI. 
 Talk in terms of Talent Pool 
 
-6.5. Ensuring Responsible Future (with Ethics, Safety, Guardrails)
+# 6.5. Ensuring Responsible Future (with Ethics, Safety, Guardrails)
 Owner: Rahul Matthan
+
+Government needs to be involved.
 
 Research AI ethics and safety with Indian Legal Institutes.
 Collaborate with the Government to shape policy for transparent, inclusive AI. 
