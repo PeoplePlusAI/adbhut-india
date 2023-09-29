@@ -14,11 +14,9 @@
 
 
 
-![](<.gitbook/assets/WhatsApp Image 2023-09-20 at 19.54.02.jpeg>)
 
 
 
-![](<.gitbook/assets/WhatsApp Image 2023-09-20 at 15.37.13 (1).jpeg>)
 
 
 

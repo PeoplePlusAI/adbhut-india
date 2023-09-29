@@ -7,8 +7,8 @@
 * [1. Introduction](draft/1.-introduction.md)
 * [2. Executive Summary](draft/2.-executive-summary.md)
 * [4. Diagnosis - Background, Opportunities & Challenges](draft/4.-opportunities-and-challenges.md)
-* [5. Guiding Policy](draft/5.-guiding-policy.md)
-* [6. Coherent Actions & Key Ecosystem Enablers](draft/6.-coherent-actions.md)
+* [5. Guiding Policy (Our Approach)](draft/5.-guiding-policy.md)
+* [6. Key Ecosystem Enablers](draft/6.-coherent-actions.md)
 * [7. Annexure: FAQs & More](draft/7.-annexure-faqs-and-more.md)
 * [8. Conclusion](draft/8.-conclusion.md)
 
