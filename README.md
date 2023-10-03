@@ -2,9 +2,9 @@
 
 This is a private github repository that houses instructions to update the Adbhut AI strategy document as well as update the project plan
 
-##
 
-The Adbhut AI project is focused on creating a strategy manifesto that talks about the strategic role that India (Government, companies, researchers, educational institutions & citizens) can play to its advantages in AI and help create a leading, robust AI ecosystem. Given India's vast and diverse population, along with its multitude of potential applications, it is crucial to implement a prudent strategy that harnesses AI to unlock the "path to potential" for national progress and social good and be a use-case capital of the world in AI. The strategy document is being housed on Gitbook and can be accessed here: https://app.gitbook.com/invite/-Mi9QwJlsfb7xuxTBc0J/MV1tnadnJzwSAMJllfkW&#x20;
+
+The Adbhut AI project is focused on creating a strategy manifesto that talks about the strategic role that India (Government, companies, researchers, educational institutions & citizens) can play to its advantages in AI and help create a leading, robust AI ecosystem. Given India's vast and diverse population, along with its multitude of potential applications, it is crucial to implement a prudent strategy that harnesses AI to unlock the "path to potential" for national progress and social good and be a use-case capital of the world in AI. The strategy document is being housed on Gitbook and can be accessed here: https://app.gitbook.com/invite/-Mi9QwJlsfb7xuxTBc0J/MV1tnadnJzwSAMJllfkW &#x20;
 
 ## Instructions to manage the project plan:
 
