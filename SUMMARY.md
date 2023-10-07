@@ -2,16 +2,19 @@
 
 * [READ ME: Adbhut AI Strategy](README.md)
 
-## Draft
+## Background
 
-* [1. Executive Summary](draft/2.-executive-summary.md)
-* [2. Introduction](draft/1.-introduction.md)
-* [4. Diagnosis - Background, Opportunities & Challenges](draft/4.-opportunities-and-challenges.md)
-* [5. Guiding Policy (Our Approach)](draft/5.-guiding-policy.md)
-* [6. Key Actions](draft/6.-coherent-actions.md)
-* [7. Annexure: FAQs & More](draft/7.-annexure-faqs-and-more.md)
-* [8. Conclusion](draft/8.-conclusion.md)
+* [1. Executive Summary](background/2.-executive-summary.md)
+* [2. Introduction](background/1.-introduction.md)
+* [3. Diagnosis - Background, Opportunities & Challenges](background/4.-opportunities-and-challenges.md)
+
+## Strategy
+
+* [4. Guiding Policy (Our Approach)](strategy/5.-guiding-policy.md)
+* [5. Key Actions (Main Strategy)](strategy/6.-coherent-actions.md)
+* [6. Conclusion](strategy/8.-conclusion.md)
+* [7. Annexure: FAQs & More](strategy/7.-annexure-faqs-and-more.md)
 
 ***
 
-* [Open Threads](open-threads.md)
+* [List of Contributors & Partners](list-of-contributors-and-partners.md)
