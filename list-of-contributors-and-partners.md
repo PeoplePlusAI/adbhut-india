@@ -10,7 +10,7 @@ If you have contributed to this strategy, please raise a Github commit to add yo
 
 
 
-If you would like to contribute, please look at the list of open issues where we could use your help.
+**If you would like to contribute, please look at the list of open issues where we could use your help.**
 
 
 
