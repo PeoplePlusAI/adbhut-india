@@ -1,6 +1,6 @@
 # Table of contents
 
-* [READ ME: Adbhut AI Strategy](README.md)
+* [READ ME: Adbhut India (AI) Strategy](README.md)
 
 ## Background
 
