@@ -19,4 +19,4 @@ Given India's vast and diverse population, along with its multitude of potential
 
 
 
-## In case of questions, please reach out to tanvi@peopleplus.ai or harsha@peoplepl
+## In case of questions, please reach out to tanvi@peopleplus.ai or harsha@peopleplus.ai
