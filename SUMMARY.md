@@ -18,3 +18,4 @@
 ***
 
 * [List of Contributors & Partners](list-of-contributors-and-partners.md)
+* [References](references.md)
