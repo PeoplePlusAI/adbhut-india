@@ -6,7 +6,7 @@
 
 
 
-If you have contributed to this strategy, please raise a Github commit to add your and your organisation name here.
+If you have contributed to this document, please raise a Github commit to add your and your organisation name here.
 
 
 

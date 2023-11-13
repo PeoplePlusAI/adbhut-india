@@ -1,10 +1,27 @@
-# READ ME: Adbhut India (AI) Strategy
+---
+cover: >-
+  .gitbook/assets/harsha7417_indian_farmer_using_ai_on_phone_illustration_55e3e2ce-3e61-40bd-afe9-f03e6cd08c0b
+  (2).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-**The Adbhut India (AI)** Project is focused on creating a manifesto that talks about the strategic role that India (Government, companies, researchers, educational institutions & citizens) can play to its advantages in AI and help create a leading, robust AI ecosystem.&#x20;
+# READ ME: Adbhut India (AI)
 
-Given India's vast and diverse population, along with its multitude of potential applications, it is crucial to implement a prudent strategy that harnesses AI to unlock the "path to potential" for national progress and social good and be a use-case capital of the world in AI.&#x20;
-
-The strategy is named after its end-goal, of creating an Adbhut (or a wonderful) India.
+**The Adbhut India (AI)** Project outlines a manifesto for reaching a destination of an 'Adbhut' or 'wonderful' India with the use of AI. It also aims to create a collective of the key stakeholders in the AI ecosystem (Government, companies, researchers, educational institutions & citizens) in order to solve ecosystem-level challenges that India faces that prevent it from realising the vision of an Adbhut India
 
 
 
