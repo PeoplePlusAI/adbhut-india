@@ -21,7 +21,7 @@ layout:
 
 # READ ME: Adbhut India (AI)
 
-**The Adbhut India (AI)** Project outlines a manifesto for reaching a destination of an 'Adbhut' or 'wonderful' India with the use of AI. It also aims to create a collective of the key stakeholders in the AI ecosystem (Government, companies, researchers, educational institutions & citizens) in order to solve ecosystem-level challenges that India faces that prevent it from realising the vision of an Adbhut India
+**The Adbhut India (AI)** Project outlines a strategy for reaching a destination of an 'Adbhut' or 'wonderful' India with the use of AI. In order to reach that destination, it aims to create a collective of the key stakeholders in the AI ecosystem (Government, companies, researchers, educational institutions & citizens) in order to solve ecosystem-level challenges that India faces that prevent it from realising the vision of an Adbhut India.
 
 
 
