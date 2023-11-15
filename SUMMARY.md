@@ -14,11 +14,11 @@
 ## Archive & Resources
 
 * [Archive & Resources](archive-and-resources/archive-and-resources/README.md)
+  * [2. Introduction](archive-and-resources/archive-and-resources/1.-introduction.md)
+  * [5. Key Actions (Main Strategy)](archive-and-resources/archive-and-resources/6.-coherent-actions.md)
+  * [3. Diagnosis - Background, Opportunities & Challenges](archive-and-resources/archive-and-resources/4.-opportunities-and-challenges.md)
   * [References](archive-and-resources/archive-and-resources/references.md)
   * [7. Annexure: FAQs & More](archive-and-resources/archive-and-resources/7.-annexure-faqs-and-more.md)
-  * [3. Diagnosis - Background, Opportunities & Challenges](archive-and-resources/archive-and-resources/4.-opportunities-and-challenges.md)
-  * [2. Introduction](archive-and-resources/archive-and-resources/1.-introduction.md)
   * [Executive Summary](archive-and-resources/archive-and-resources/2.-executive-summary.md)
   * [4. Guiding Policy (Our Approach)](archive-and-resources/archive-and-resources/5.-guiding-policy.md)
-  * [5. Key Actions (Main Strategy)](archive-and-resources/archive-and-resources/6.-coherent-actions.md)
 * [List of Contributors & Partners](archive-and-resources/list-of-contributors-and-partners.md)
