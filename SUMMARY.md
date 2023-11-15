@@ -7,7 +7,7 @@
 * [1. Introduction](adbhut-india/1.-introduction.md)
 * [2. The Possibility of an Adbhut India with AI](adbhut-india/2.-the-possibility-of-an-adbhut-india-with-ai.md)
 * [3. Ecosystem Challenges & How to Tackle Them](adbhut-india/3.-ecosystem-challenges-and-how-to-tackle-them.md)
-* [4. What the Adbhut India Collective Plans To Do](adbhut-india/4.-what-the-adbhut-india-collective-plans-to-do.md)
+* [4. Key Actions Planned for the Collective](adbhut-india/4.-key-actions-planned-for-the-collective.md)
 * [5. Join the Adbhut India Mission](adbhut-india/5.-join-the-adbhut-india-mission.md)
 * [6. Glossary](adbhut-india/6.-glossary.md)
 
