@@ -5,8 +5,8 @@
 ## Adbhut India
 
 * [1. Introduction](adbhut-india/1.-introduction.md)
-* [2. Creating an Adbhut India - Why India needs AI and AI needs India](adbhut-india/2.-creating-an-adbhut-india-why-india-needs-ai-and-ai-needs-india.md)
-* [3. Ecosystem Challenges & How to Tackle Them](adbhut-india/3.-ecosystem-challenges-and-how-to-tackle-them.md)
+* [2. The Stage is Set for an Adbhut India](adbhut-india/2.-the-stage-is-set-for-an-adbhut-india.md)
+* [3. The Ecosystem Challenges & How to Tackle Them](adbhut-india/3.-the-ecosystem-challenges-and-how-to-tackle-them.md)
 * [4. Key Actions Planned for the Collective](adbhut-india/4.-key-actions-planned-for-the-collective.md)
 * [5. Join the Adbhut India Mission](adbhut-india/5.-join-the-adbhut-india-mission.md)
 * [6. Glossary](adbhut-india/6.-glossary.md)

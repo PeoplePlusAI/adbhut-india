@@ -23,13 +23,19 @@ layout:
 
 ## Executive Summary
 
-Adbhut India (or 'Amazing' India) is conceptual destination where India fully harnesses the transformative power of AI to improve the lives of all Indians and improve its systems and the economy at large. **In this vision, AI is equitably accessible and instrumental in solving India’s challenges related to access, productivity, and expertise bottlenecks.** It is a future where the collective efforts of the ecosystem overcome prevailing obstacles, leveraging AI’s capabilities to the fullest and, in turn, allowing AI to benefit from India's unique landscape. ‘Adbhut’ means ‘amazing’ or ‘incredible’ in Hindi.
+Adbhut India (or 'Amazing' India) is conceptual destination where India fully harnesses the transformative power of AI to improve the lives of all Indians. **In this vision, AI is equitably accessible and instrumental in solving India’s challenges related to access, productivity, and expertise bottlenecks.** It is a future where the collective efforts of the ecosystem overcome prevailing obstacles, leveraging AI’s capabilities to the fullest and, in turn, allowing AI to benefit from India's unique landscape. ‘Adbhut’ means ‘amazing’ or ‘incredible’ in Hindi.
+
+**India for AI and AI for India will help us create the destination of an ‘Adbhut India’**, where India is able to resolve problems of access, productivity and expertise as a bottleneck, with the use of AI. And Indians are able to adopt it at a population-scale. **The Adbhut India (AI)** Project outlines a strategy for reaching the destination of an 'Adbhut' or 'wonderful' India with the use of AI.&#x20;
 
 
 
-**The Adbhut India (AI)** Project outlines a strategy for reaching a destination of an 'Adbhut' or 'wonderful' India with the use of AI. In order to reach that destination, we need to solve ecosystem-level challenges that India faces that. Challenges such include data gaps, cost of compute, talent re-skilling, etc.&#x20;
+**In order to reach that destination**, we need to solve ecosystem-level challenges that India faces that. These challenges include data gaps, cost of compute, talent re-skilling, etc.&#x20;
+
+
 
 To solve these, we aim to create a collective of the key stakeholders in the AI ecosystem (Government, companies, researchers, educational institutions & citizens).&#x20;
+
+
 
 
 
