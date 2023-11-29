@@ -29,17 +29,15 @@ layout:
 
 
 
-**The Adbhut India (AI) Project is a collective and a strategy.** It describes a strategy for reaching the destination of an 'Adbhut' or 'wonderful' India with the use of AI. It is a future where the collective efforts of the ecosystem overcome prevailing obstacles, leveraging AI’s capabilities to the fullest and, in turn, allowing AI to benefit from India's unique landscape.&#x20;
+**The Adbhut India (AI) Project is a collective and a strategy devised to solve these ecosystem-level challenges.** These challenges include:
+
+1. **Infrastructure** gaps (around lack of availability of the right data, the cost of compute, and missed evaluation of models that work well for Indian context )&#x20;
+2. **Talent** gaps.
+3. **Ecosystem-specific** gaps, including policy & community.
 
 
 
-**In order to reach that destination**, we need to solve ecosystem-level challenges that India faces that. These challenges include data gaps, cost of compute, talent re-skilling, etc.&#x20;
-
-To solve these, we aim to create a collective of the key stakeholders in the AI ecosystem (Government, companies, researchers, educational institutions & citizens).&#x20;
-
-
-
-**Note**: Currently this is a private Github repository that houses instructions to update the Adbhut AI strategy document as well as update the project plan. It will be made public soon.
+**To solve these, we aim to create a collective of the key stakeholders in the AI ecosystem (Government, companies, researchers, educational institutions & citizens).** Because ecosystem-level challenges require ecosystem-level solutions.
 
 
 
@@ -51,11 +49,9 @@ To solve these, we aim to create a collective of the key stakeholders in the AI 
 
 ## Instructions to Contribute:
 
-<mark style="color:blue;">**Note: This document is a work-in-progress. Any and all feedback is appreciated. It will be opened to the public for contributions in open source very soon.**</mark>
+<mark style="color:blue;">**Note: This document is a work-in-progress. Any and all feedback is appreciated. It will be opened to the public for contributions in open source very soon.**</mark> Currently this is a private Github repository that houses instructions to update the Adbhut AI strategy document as well as update the project plan. It will be made public soon.
 
 * The Adbhut India document is being housed on GitBook. Please contact harsha@peopleplus.ai to get access to edit this document via GitBook or feel free to raise a Pull Request via Github.&#x20;
 * Contributors can raise a Pull Request in order to make changes via Github or **share feedback directly to harsha@peopleplus.ai and we will incorporate your feedback as best we can and add your contribution to the list of contributors** & partners if you wish so.
-
-
 
 ## In case of questions, please reach out to tanvi@peopleplus.ai or harsha@peopleplus.ai
