@@ -5,7 +5,7 @@
 ## Adbhut India
 
 * [1. Introduction](adbhut-india/1.-introduction.md)
-* [2. The Stage is Set for an Adbhut India](adbhut-india/2.-the-stage-is-set-for-an-adbhut-india.md)
+* [2. The Stage is Set for an Adbhut India with AI](adbhut-india/2.-the-stage-is-set-for-an-adbhut-india-with-ai.md)
 * [3. Ecosystem Challenges & How to Tackle Them](adbhut-india/3.-ecosystem-challenges-and-how-to-tackle-them.md)
 * [4. Key Actions Planned for the Collective](adbhut-india/4.-key-actions-planned-for-the-collective.md)
 * [5. Join the Adbhut India Mission](adbhut-india/5.-join-the-adbhut-india-mission.md)
