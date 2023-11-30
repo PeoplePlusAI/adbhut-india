@@ -43,7 +43,7 @@ layout:
 
 ## What should you do next?
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Read</td><td><a href="archive-and-resources/archive-and-resources/1.-introduction.md"><strong>1. Read the paper here</strong></a></td><td></td></tr><tr><td>Share Feedback</td><td><a href="https://www.figma.com/file/N9RgUCXUZGlkqcx6dhAJ48/PeoplePlusAI?type=design&#x26;node-id=150%3A3&#x26;mode=design&#x26;t=sCTxK9FgA2OHTgts-1"><strong>2. View the Presentation Deck &#x26; share feedback</strong></a></td><td></td></tr><tr><td>Schedule</td><td><a href="https://cal.read.ai/harsha"><strong>3. Schedule a call with Harsha to discuss collaboration</strong></a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Watch</td><td><a href="https://www.loom.com/share/4fdfca297c464f2a927efa20a77181d0?sid=459e8a82-4262-4411-83e5-f3ba0df38407"><strong>1. Watch the Walkthrough</strong></a></td><td></td></tr><tr><td>Read</td><td><a href="archive-and-resources/archive-and-resources/1.-introduction.md"><strong>2. Read the paper here</strong></a></td><td></td></tr><tr><td>Schedule</td><td><a href="https://cal.read.ai/harsha"><strong>3. Schedule a call with Harsha to discuss feedback &#x26; collaboration</strong></a></td><td></td></tr></tbody></table>
 
 ##
 
