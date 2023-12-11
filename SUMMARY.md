@@ -22,3 +22,4 @@
   * [7. Annexure: FAQs & More](archive-and-resources/archive-and-resources/7.-annexure-faqs-and-more.md)
   * [Executive Summary](archive-and-resources/archive-and-resources/2.-executive-summary.md)
   * [4. Guiding Policy (Our Approach)](archive-and-resources/archive-and-resources/5.-guiding-policy.md)
+* [Index of Docs](archive-and-resources/index-of-docs.md)
