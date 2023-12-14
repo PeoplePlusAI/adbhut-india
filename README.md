@@ -29,7 +29,7 @@ layout:
 
 
 
-**The Adbhut India (AI) Project is a collective and a strategy devised to solve these ecosystem-level challenges.** These challenges include:
+**The Adbhut India (AI) Project is a collective and a strategy devised to solve the ecosystem-level challenges that prevent us from getting to an Adbhut India.** These challenges include:
 
 1. **Infrastructure** **gaps** (around lack of availability of the right data, the cost of compute, and missed evaluation of models that work well for Indian context )&#x20;
 2. **Talent** **gaps** (including dealing with job-displacements via re-skilling and the deep research & engineering talent for AI in India)
