@@ -23,3 +23,4 @@
   * [Executive Summary](archive-and-resources/archive-and-resources/2.-executive-summary.md)
   * [4. Guiding Policy (Our Approach)](archive-and-resources/archive-and-resources/5.-guiding-policy.md)
 * [Index of Docs](archive-and-resources/index-of-docs.md)
+* [Additional Challenges & Feedback](archive-and-resources/additional-challenges-and-feedback.md)
