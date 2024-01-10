@@ -47,7 +47,7 @@ Read more about the principles to collaborate on [here](adbhut-india/3.-ecosyste
 
 ## What should you do next?
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Watch</td><td><a href="https://www.loom.com/share/4fdfca297c464f2a927efa20a77181d0?sid=459e8a82-4262-4411-83e5-f3ba0df38407"><strong>1. Watch the 5 min Walkthrough</strong></a></td><td></td></tr><tr><td>Read</td><td><a href="adbhut-india/1.-introduction.md"><strong>2. Read the entire paper here</strong></a></td><td></td></tr><tr><td>Contribute</td><td><a href="https://github.com/PeoplePlusAI/adbhut-india"><strong>3. If you have suggestions or feedback on any part of the doc, you can contribute on Github by raising an issue.</strong></a></td><td></td></tr><tr><td>Schedule</td><td><a href="https://cal.read.ai/harsha"><strong>4. Schedule a call with Harsha to discuss feedback &#x26; collaboration</strong></a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Watch</td><td><a href="https://www.loom.com/share/4fdfca297c464f2a927efa20a77181d0?sid=459e8a82-4262-4411-83e5-f3ba0df38407"><strong>1. Watch the 5 min Walkthrough</strong></a></td><td></td></tr><tr><td>Read</td><td><a href="adbhut-india/1.-introduction.md"><strong>2. Read the entire paper here</strong></a></td><td></td></tr><tr><td>Contribute</td><td><a href="https://github.com/PeoplePlusAI/adbhut-india"><strong>3. If you have suggestions or feedback on any part of the doc, you can contribute on Github by raising an issue.</strong></a></td><td></td></tr><tr><td>Schedule</td><td><strong>4. Send an email to Harsha to schedule a call.</strong></td><td></td></tr></tbody></table>
 
 ##
 
