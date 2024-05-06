@@ -25,7 +25,7 @@ layout:
 
 **Adbhut India (or 'Amazing' India)** is conceptual destination where India fully harnesses the transformative power of AI, to improve the lives of all Indians. ‘Adbhut’ means ‘amazing’ or ‘incredible’ in Hindi. **In this vision, AI is equitably accessible and instrumental in solving India’s challenges related to access, productivity, and expertise bottlenecks.** And Indians are using it to better their lives.
 
-Many people would agree to such a vision for the country. But getting there is hard. The path is not obvious and there are very big challenges. But India for AI and AI for India will greatly help us reach there.
+Many people would agree to such a vision for the country. But getting there is hard. The path is not obvious and there are very big challenges. But India for AI and AI for India will greatly help us reach there. We firmly believe that AI won't change the world; you will.
 
 
 
@@ -40,15 +40,21 @@ Read more about them [here](adbhut-india/3.-ecosystem-gaps-and-how-to-tackle-the
 
 
 
+
+
+
+
 **To solve these, we aim to create a collective of the key stakeholders in the AI ecosystem (Government, companies, researchers, educational institutions & citizens).** Because ecosystem-level challenges require ecosystem-level solutions.
 
 Read more about the principles to collaborate on [here](adbhut-india/3.-ecosystem-gaps-and-how-to-tackle-them.md#3.2.-we-need-a-collective-to-create-ecosystem-level-solutions.) & the [key actions planned to tackle the challenges here](adbhut-india/4.-key-actions-planned.md).
 
 
 
+
+
 ## What should you do next?
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Watch</td><td><a href="https://www.loom.com/share/4fdfca297c464f2a927efa20a77181d0?sid=459e8a82-4262-4411-83e5-f3ba0df38407"><strong>1. Watch the 5 min Walkthrough</strong></a></td><td></td></tr><tr><td>Read</td><td><a href="adbhut-india/1.-introduction.md"><strong>2. Read the entire paper here</strong></a></td><td></td></tr><tr><td>Contribute</td><td><a href="https://github.com/PeoplePlusAI/adbhut-india"><strong>3. If you have suggestions or feedback on any part of the doc, you can contribute on Github by raising an issue.</strong></a></td><td></td></tr><tr><td><strong>Participate</strong> </td><td><a href="https://peopleplus.ai/work-with-us">4. If you would like to work with People+ai on any initiatives, please visit here.</a></td><td></td></tr><tr><td><strong>Stay Updated</strong><br><a href="https://coda.io/form/Stay-Connected-Form_didQ4TcFOL0"><strong>5. Subscribe to our newsletter.</strong></a></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Watch</td><td><a href="https://www.loom.com/share/4fdfca297c464f2a927efa20a77181d0?sid=459e8a82-4262-4411-83e5-f3ba0df38407"><strong>1. Watch the 5 min Walkthrough</strong></a></td><td></td></tr><tr><td>Read</td><td><a href="adbhut-india/1.-introduction.md"><strong>2. Read the entire paper here</strong></a></td><td></td></tr><tr><td>Further Engagement</td><td><a href="https://peopleplus.ai/connect">3. Visit peopleplus.ai/connect to engage as a volunteer, organisation or more.</a></td><td></td></tr><tr><td><strong>Stay Updated</strong><br><a href="https://coda.io/form/Stay-Connected-Form_didQ4TcFOL0"><strong>5. Subscribe to our newsletter.</strong></a></td><td></td><td></td></tr></tbody></table>
 
 
 
